@@ -1,4 +1,4 @@
-The game is written in Kotlin, most likely using Android Studio.
+
 
 It’s a match-3 puzzle game, like Candy Crush, based on the file name and likely assets in res/ or assets/.
 
